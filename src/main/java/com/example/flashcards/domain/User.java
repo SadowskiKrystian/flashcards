@@ -1,4 +1,4 @@
-package com.example.flashcards.model;
+package com.example.flashcards.domain;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
